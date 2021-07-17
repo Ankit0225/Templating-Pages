@@ -1,0 +1,22 @@
+{
+  "name": "templating-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit0225/Templating-Pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit0225/Templating-Pages/issues"
+  },
+  "homepage": "https://github.com/Ankit0225/Templating-Pages#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
